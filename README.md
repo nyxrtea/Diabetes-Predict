@@ -11,18 +11,18 @@
 4. Bintang Prananda Putra      (23031554131)
 
 ---
-## Struktur Folder
+## 🗂️ Struktur Folder
 
 📁 PMD_UAS/
 ├── app.py # Aplikasi utama Streamlit
-├── bg1.jpg # Background image untuk tampilan UI
+├── bg1.jpg # Background untuk UI
 ├── dataset_diabetes.csv # Dataset asli
-├── diabetes_cleaning.csv # Dataset yang telah dibersihkan
-├── model_svm.pkl # File model SVM terlatih
-├── scaler.pkl # File scaler (normalisasi data)
-├── svm_manual.py # Implementasi SVM manual (tanpa scikit-learn)
-├── svm_rbf.py # Implementasi SVM dengan kernel RBF
-├── requirements.txt # Daftar pustaka Python yang dibutuhkan
+├── diabetes_cleaning.csv # Dataset hasil pembersihan
+├── model_svm.pkl # Model SVM terlatih
+├── scaler.pkl # Scaler (normalisasi data)
+├── svm_manual.py # SVM manual (tanpa scikit-learn)
+├── svm_rbf.py # SVM dengan kernel RBF
+├── requirements.txt # Dependency project
 
 ---
 ---
