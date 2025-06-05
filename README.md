@@ -12,7 +12,7 @@
 
 
 ## Struktur Folder
-```
+
 📁 PMD_UAS/
 ├── app.py # Aplikasi utama Streamlit
 ├── bg1.jpg # Background image untuk tampilan UI
@@ -24,6 +24,7 @@
 ├── svm_rbf.py # Implementasi SVM dengan kernel RBF
 ├── requirements.txt # Daftar pustaka Python yang dibutuhkan
 
+---
 ## Cara Menjalankan Aplikasi Secara Lokal
 
 1. **Clone repository ini**:
