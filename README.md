@@ -23,6 +23,7 @@
 ├── svm_manual.py # Implementasi SVM manual (tanpa scikit-learn)
 ├── svm_rbf.py # Implementasi SVM dengan kernel RBF
 ├── requirements.txt # Daftar pustaka Python yang dibutuhkan
+
 ---
 ---
 ## Cara Menjalankan Aplikasi Secara Lokal
